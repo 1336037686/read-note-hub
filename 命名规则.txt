@@ -1,0 +1,7 @@
+书籍 book-0001-xxxxx
+博客 blog-0001-xxxx
+消息记录 msg-0001-xxxx
+会议|演讲会 cf-0001-xxxx
+论文|专利 paper-0001-xxxx
+课程 course-0001-xxx
+
